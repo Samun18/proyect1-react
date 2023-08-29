@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&family=Ubuntu&display=swap');
+
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+h1, 
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+button {
+    border: none;
+    font-family: inherit;
+}
